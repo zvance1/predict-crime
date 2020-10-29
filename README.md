@@ -49,10 +49,6 @@ Note: Not all exploratory analysis made it into the final techincal report - onl
 <br>
 [Python Files and Notebooks](https://github.com/zvance1/predict-crime/tree/main/notebooks)
 
-**Youtube link to presentation:**
-<br>
-[Presentation](https://youtu.be/KfMakVmQK5k)
-
 
 # Project Info
 <pre>
@@ -62,10 +58,10 @@ Contributors : <a href=https://github.com/zvance1>Zach Vance</a>
 <pre>
 Languages    : Python3
 Tools/IDE    : Anaconda, Jupyter Notebook
-Libraries    : pandas, sklearn, matplotlib, numpy, seaborn
+Libraries    : pandas, sklearn, matplotlib
 </pre>
 
 <pre>
 Duration     : September 2020
-Last Update  : 10.13.2020
+Last Update  : 10.29.2020
 </pre>
