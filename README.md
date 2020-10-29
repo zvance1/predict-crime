@@ -6,9 +6,9 @@ In this project I will fetch Baltimore City crime data to see if it can be used 
 
 The question at hand here is if we can we predict what weapon will be used in a particular victim based crime.  This would benefit police officers by either knowing before the crime happens what to be on the lookout for/prepared for or after the fact for when they arrive on the scene to know what to expect ]/ be prepared for.
 
-Based on a dummy model, if we simply predicted that every crime was commited with a FIREARM??? we would have an accuracy score of: ACCURACY_SCORE_HERE!!
+Based on a dummy model, if we simply predicted that every crime was commited with a FIREARM??? we would have an accuracy score of: 78.7%.
 
-So, we will make it our goal to beat that accuracy score with out model.  Can we predict what weapon will be used in a particular crime with a higher accuracy rate than ACCURACY_SCORE_HERE!!
+So, we will make it our goal to beat that accuracy score with out model.  Can we predict what weapon will be used in a particular crime with a higher accuracy rate than 78.7%
 
 # Motivation and Background
 
